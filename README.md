@@ -5,6 +5,7 @@ This is the final project for the Udacity Full Stack Developer Nanodegree.
 The objective is to configure an Amazon Lightsail server instance to host a catalog web application previously created using Flask.
 
 **IP Address:** 52.64.161.176
+
 **URL:** http://52.64.161.176.xip.io/
 
 ## Summary of Software Installed
